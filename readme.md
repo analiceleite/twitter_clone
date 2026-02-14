@@ -4,10 +4,6 @@ A full-stack Twitter-inspired social media application built with **Django REST 
 
 The project was created to strengthen my knowledge of API design, authentication, and frontend-backend integration using modern development practices.
 
-## 📸 Screenshot
-
-Add your application screenshot below:
-
 ![App Screenshot](./assets/demo.png)
 
 ## 🚀 Tech Stack
@@ -39,10 +35,9 @@ Add your application screenshot below:
 * RESTful API
 * Automated tests
 
-
 ## 📡 API Base Route
 
-```
+```markdown
 /api/v1/
 ```
 
