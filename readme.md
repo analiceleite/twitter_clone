@@ -8,9 +8,7 @@ The project was created to strengthen my knowledge of API design, authentication
 
 Add your application screenshot below:
 
-```markdown
 ![App Screenshot](./assets/demo.png)
-```
 
 ## 🚀 Tech Stack
 
